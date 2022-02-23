@@ -1,0 +1,10 @@
+{
+    "output": ["output",{
+        "resource": ["resource", {
+            "start.sh": "start.sh"
+        }],
+        ".dockerignore": ".dockerignore",
+        "build.cmd": "build.cmd",
+        "Dockerfile": "Dockerfile"
+    }]
+}

@@ -1,0 +1,14 @@
+{
+    "template": {
+        "docker-common": "output",
+        "sh": {
+            "sleep_infinity.sh": "start.sh"
+        },
+        "cmd": {
+            "build.cmd": "output"
+        },
+        "Dockerfile": {
+            "Dockerfile": "Dockerfile"
+        }
+    }
+}

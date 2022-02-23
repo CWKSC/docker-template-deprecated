@@ -1,0 +1,11 @@
+version: '3.9'
+
+services:
+  <imageName>:
+    container_name: <imageName>
+    image: <imageName>
+    hostname: <imageName>
+    volumes:
+      - ./workspace:/workspace
+    working_dir: /workspace
+    command: ["/bin/bash", "-c", "trap : TERM INT; sleep infinity & wait"]

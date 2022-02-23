@@ -1,0 +1,10 @@
+{
+    "output": ["output", {
+        ".gitattributes": ".gitattributes",
+        "bash.cmd": "bash.cmd",
+        "docker-compose.yml": "docker-compose.yml",
+        "down.cmd": "down.cmd",
+        "stop.cmd": "stop.cmd",
+        "up.cmd": "up.cmd"
+    }]
+}

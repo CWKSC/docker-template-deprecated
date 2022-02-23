@@ -1,0 +1,11 @@
+{
+    "template": {
+        "cmd-docker-compose": "output",
+        "docker-compose": {
+            "docker-compose-env.yml": "docker-compose.yml"
+        },
+        ".gitattributes": {
+            ".gitattributes": ".gitattributes"
+        }
+    }
+}
