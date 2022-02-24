@@ -1,1 +1,1 @@
-java -jar .\CreateTemplateKt-0.0.1.jar .\build_image\
+java -jar .\CreateTemplateKtJvm-0.0.0.jar .\build_image\

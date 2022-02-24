@@ -1,1 +1,1 @@
-java -jar .\CreateTemplateKt-0.0.1.jar .\env\
+java -jar .\CreateTemplateKtJvm-0.0.0.jar .\env\
